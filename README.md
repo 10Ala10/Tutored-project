@@ -1,4 +1,4 @@
-# CareVault : Health Records Management Using Blockchain
+# CareVault : Decentralized Applications and Self-Sovereign Identity for Electronic Medical Records
 
 
 ## Installation
